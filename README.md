@@ -1,8 +1,9 @@
 ## Hi there im Anton👋
+### 👨‍💻 Programming Languages
 
-![image](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
 
 <!--
 **antonzipperle/antonzipperle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
