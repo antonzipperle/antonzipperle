@@ -1,5 +1,7 @@
 ## Hi there im Anton👋
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+[<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="antonzipperle" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/antonzipperle?trk=profile-badge">Anton Zipperle</a></div>
+              ](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+              
 
 <!--
 **antonzipperle/antonzipperle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
