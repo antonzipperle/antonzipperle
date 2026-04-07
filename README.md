@@ -1,9 +1,11 @@
 ## Hi there im Anton👋
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
+### Contact me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anton_Zipperle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonzipperle)
 
 <!--
 **antonzipperle/antonzipperle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
