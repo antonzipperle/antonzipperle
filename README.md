@@ -7,6 +7,9 @@
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anton_Zipperle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonzipperle)
 
+<a href="https://www.linkedin.com/in/antonzipperle">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+</a>
 <!--
 **antonzipperle/antonzipperle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
