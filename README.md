@@ -3,6 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Java](![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white))
 
 ### Education
 [![Coursera](https://img.shields.io/badge/Coursera-Anton_Zipperle-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/learner/antonzipperle)
