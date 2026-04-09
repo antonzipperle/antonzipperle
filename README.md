@@ -27,7 +27,14 @@
 
 ###
 
-<p align="left">I'm Anton from Germany<br><br>- 🔭 I’m a student at Hebel Gymnasium Schwetzingen<br>- 📚 I'm currently learning Python, Java and SQL<br>- ⚡ In my free time I like to code and learn new things<br>- 🤝 Currently developing <a href="https://github.com/antonzipperle/CuraConnect">CuraConnect</a>, a digital marketplace connecting seniors with student helpers for everyday tasks</p>
+<p align="left">
+  Hey, I'm Anton — a student from Germany with roots in Shanghai and Singapore 🌏<br><br>
+
+  - 🎯 Targeting a dual study program in Wirtschaftsinformatik (AI focus) at DHBW Mannheim<br>
+  - 📊 IBM Data Science Professional Certificate · Google AI Certificate<br>
+  - 🏆 Jugend Gründet 2025 — Top 31 of 1,500 teams with <a href="https://github.com/antonzipperle/CuraConnect">CuraConnect</a><br>
+  - 🌍 Trilingual: German · English · Chinese<br>
+</p>
 
 ###
 
