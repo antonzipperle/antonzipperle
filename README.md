@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Anton from Germany<br><br>- 🔭 I’m a student at Hebel Gymnasium Schwetzingen<br>- 📚 I'm currently learning Python, Java and SQL<br>- ⚡ In my free time I like to code and learn new Things<br>- 🤝 Currently developing CuraConnect, a digital marketplace connecting seniors with student helpers for everyday tasks</p>
+<p align="left">I'm Anton from Germany<br><br>- 🔭 I’m a student at Hebel Gymnasium Schwetzingen<br>- 📚 I'm currently learning Python, Java and SQL<br>- ⚡ In my free time I like to code and learn new things<br>- 🤝 Currently developing CuraConnect, a digital marketplace connecting seniors with student helpers for everyday tasks</p>
 
 ###
 
