@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Anton from Germany<br><br>- 🔭 I’m a student at Hebel Gymnasium Schwetzingen<br>- 📚 I'm currently learning Python, Java and SQL<br>- ⚡ In my free time I like to code and learn new things<br>- 🤝 Currently developing CuraConnect, a digital marketplace connecting seniors with student helpers for everyday tasks</p>
+<p align="left">I'm Anton from Germany<br><br>- 🔭 I’m a student at Hebel Gymnasium Schwetzingen<br>- 📚 I'm currently learning Python, Java and SQL<br>- ⚡ In my free time I like to code and learn new things<br>- 🤝 Currently developing <a href="https://github.com/antonzipperle/CuraConnect">CuraConnect</a>, a digital marketplace connecting seniors with student helpers for everyday tasks</p>
 
 ###
 
@@ -44,7 +44,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
