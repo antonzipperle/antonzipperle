@@ -28,7 +28,7 @@
 ###
 
 <p align="left">
-  Hey, I'm Anton — a student from Germany with roots in Shanghai and Singapore 🌏<br><br>
+  Hey, I'm Anton, a student from Germany with roots in Shanghai and Singapore 🌏<br><br>
 
   - 🎯 Targeting a dual study program in Wirtschaftsinformatik (AI focus) at DHBW Mannheim<br>
   - 📊 IBM Data Science Professional Certificate · Google AI Certificate<br>
