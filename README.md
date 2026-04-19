@@ -30,7 +30,7 @@
 <p align="left">
   Hey, I'm Anton, a student from Germany with roots in Shanghai and Singapore 🌏<br><br>
 
-  - 🎯 Targeting a dual study program in Wirtschaftsinformatik (AI focus) at DHBW Mannheim<br>
+  - 🎯 Targeting a dual study program in Wirtschaftsinformatik (AI focus)<br>
   - 📊 IBM Data Science Professional Certificate · Google AI Certificate<br>
   - 🏆 Jugend Gründet 2025 — Top 31 of 1,500 teams with <a href="https://github.com/antonzipperle/CuraConnect">CuraConnect</a><br>
   - 🌍 Trilingual: German · English · Chinese<br>
